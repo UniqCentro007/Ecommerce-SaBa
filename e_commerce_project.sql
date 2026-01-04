@@ -223,6 +223,8 @@ JOIN customer_dim c
 GROUP BY
     c.customer_key,
     c.name_of_customer;
+    
+    select * from fact_table;
 
 
 
