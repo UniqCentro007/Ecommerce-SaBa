@@ -224,7 +224,7 @@ GROUP BY
     c.customer_key,
     c.name_of_customer;
     
-    select * from fact_table;
+    select * from time_dim;
 
 
 
